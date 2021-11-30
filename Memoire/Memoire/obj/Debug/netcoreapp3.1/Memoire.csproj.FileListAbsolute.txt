@@ -1,0 +1,16 @@
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\bin\Debug\netcoreapp3.1\Memoire.exe
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\bin\Debug\netcoreapp3.1\Memoire.deps.json
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\bin\Debug\netcoreapp3.1\Memoire.runtimeconfig.json
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\bin\Debug\netcoreapp3.1\Memoire.runtimeconfig.dev.json
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\bin\Debug\netcoreapp3.1\Memoire.dll
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\bin\Debug\netcoreapp3.1\Memoire.pdb
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.csproj.AssemblyReference.cache
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.Form1.resources
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.csproj.GenerateResource.cache
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.AssemblyInfoInputs.cache
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.AssemblyInfo.cs
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.csproj.CoreCompileInputs.cache
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.dll
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.pdb
+C:\Users\2063738\OneDrive - Cégep de Lévis\Memoire\Memoire\obj\Debug\netcoreapp3.1\Memoire.genruntimeconfig.cache
